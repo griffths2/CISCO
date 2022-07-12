@@ -1,0 +1,10 @@
+{
+    "name": "pylon",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "node": "^18.5.0",
+        "server.js": "^1.0.0",
+        "websocket": "^1.0.34"
+    }
+}
